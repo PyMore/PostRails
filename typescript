@@ -1,0 +1,200 @@
+Script iniciado (vie 12 may 2017 15:44:15 CDT
+)]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ clear[K[K[K[K[Kscr
+screendump    script        scriptreplay  
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ scr
+screendump    script        scriptreplay  
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ script.p[Ksh
+script.sh: no se encontró la orden
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ clear
+[3;J[H[2J]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ chp[Komm[K[K[Kmod script.sh 
+chmod: falta un operando después de «script.sh»
+Pruebe 'chmod --help' para más información.
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ chmod script.sh [C[1@ [1@4
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ l
+[0m[01;34mapp[0m/  [01;34mconfig[0m/    [01;34mdb[0m/      Gemfile.lock  [01;34mlog[0m/     Rakefile   script.sh  [01;34mtmp[0m/        [01;34mvendor[0m/
+[01;34mbin[0m/  config.ru  Gemfile  [01;34mlib[0m/          [01;34mpublic[0m/  README.md  [01;34mtest[0m/      typescript
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ s[Kls[K[Kls
+[0m[01;34mapp[0m  [01;34mbin[0m  [01;34mconfig[0m  config.ru  [01;34mdb[0m  Gemfile  Gemfile.lock  [01;34mlib[0m  [01;34mlog[0m  [01;34mpublic[0m  Rakefile  README.md  script.sh  [01;34mtest[0m  [01;34mtmp[0m  typescript  [01;34mvendor[0m
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ cd
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~[00m$ c[Kls
+[0m[01;34mdatas[0m      [01;34mDescargas[0m   examples.desktop                [01;34mkartograph-test[0m  [01;34mnode_modules[0m  [01;34mPlantillas[0m       [01;34mrest[0m
+[01;34mdemorata[0m   [01;34mDocumentos[0m  [01;34mImágenes[0m                        [01;34mMúsica[0m           [01;34moctuweb[0m       [01;34mPúblico[0m          [01;34mVídeos[0m
+[01;34mdemorata2[0m  [01;34mEscritorio[0m  java_error_in_PYCHARM_9256.log  [01;34mmyproject[0m        [01;34moctuweb3[0m      [01;34mPycharmProjects[0m
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~[00m$ ccd[K[K[Kcd .'
+> ^C
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~[00m$ cd .'[K/
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~[00m$ ls
+[0m[01;34mdatas[0m      [01;34mDescargas[0m   examples.desktop                [01;34mkartograph-test[0m  [01;34mnode_modules[0m  [01;34mPlantillas[0m       [01;34mrest[0m
+[01;34mdemorata[0m   [01;34mDocumentos[0m  [01;34mImágenes[0m                        [01;34mMúsica[0m           [01;34moctuweb[0m       [01;34mPúblico[0m          [01;34mVídeos[0m
+[01;34mdemorata2[0m  [01;34mEscritorio[0m  java_error_in_PYCHARM_9256.log  [01;34mmyproject[0m        [01;34moctuweb3[0m      [01;34mPycharmProjects[0m
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~[00m$ cd/ /
+]0;carlosdiaz@carlosdiaz-Satellite-S855: /[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m/[00m$ cls
+No se ha encontrado la orden «cls» pero hay 18 similares
+cls: no se encontró la orden
+]0;carlosdiaz@carlosdiaz-Satellite-S855: /[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m/[00m$ ls
+[0m[01;34mbin[0m   [01;34mcdrom[0m  [01;34metc[0m   [01;36minitrd.img[0m      [01;34mlib[0m    [01;34mlost+found[0m  [01;34mmnt[0m  [01;34mproc[0m  [01;34mrun[0m   [01;34msnap[0m  [01;34msys[0m  [01;34musr[0m  [01;36mvmlinuz[0m
+[01;34mboot[0m  [01;34mdev[0m    [01;34mhome[0m  [01;36minitrd.img.old[0m  [01;34mlib64[0m  [01;34mmedia[0m       [01;34mopt[0m  [01;34mroot[0m  [01;34msbin[0m  [01;34msrv[0m   [30;42mtmp[0m  [01;34mvar[0m  [01;36mvmlinuz.old[0m
+]0;carlosdiaz@carlosdiaz-Satellite-S855: /[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m/[00m$ chmod a+rx my-script.sh
+chmod: no se puede acceder a 'my-script.sh': No existe el archivo o el directorio
+]0;carlosdiaz@carlosdiaz-Satellite-S855: /[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m/[00m$ chmod a+rx my-script.sh[1Pscript.sh[1Pscript.sh[1Pscript.sh
+chmod: no se puede acceder a 'script.sh': No existe el archivo o el directorio
+]0;carlosdiaz@carlosdiaz-Satellite-S855: /[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m/[00m$ chmod a+rx script.shmy-script.sh[C[C[C[C[C[C[1Pscript.sh[1Pscript.sh[1Pscript.sh[1Pscript.sh[1Pscript.sh[1Pscript.sh[1Pscript.sh[1Pscript.sh[1Pscript.sh[1Pscript.sh[1Pscript.sh[1Pscript.sh[1Pscript.sh[1Pscript.shcscript.shdscript.sh script.sh/script.shhmod a+rx script.sh[7Pd /script.sh./script.sh
+bash: cd: ./script.sh: No existe el archivo o el directorio
+]0;carlosdiaz@carlosdiaz-Satellite-S855: /[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m/[00m$ cd ./script.sh[1P/script.sh
+bash: cd: /script.sh: No existe el archivo o el directorio
+]0;carlosdiaz@carlosdiaz-Satellite-S855: /[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m/[00m$ cd dD[K[KDocum[K[K[K[Kocu[K[K[K[K[K[K[Ks[Kl
+[0m[01;34mbin[0m/   [01;34mcdrom[0m/  [01;34metc[0m/   [01;36minitrd.img[0m@      [01;34mlib[0m/    [01;34mlost+found[0m/  [01;34mmnt[0m/  [01;34mproc[0m/  [01;34mrun[0m/   [01;34msnap[0m/  [01;34msys[0m/  [01;34musr[0m/  [01;36mvmlinuz[0m@
+[01;34mboot[0m/  [01;34mdev[0m/    [01;34mhome[0m/  [01;36minitrd.img.old[0m@  [01;34mlib64[0m/  [01;34mmedia[0m/       [01;34mopt[0m/  [01;34mroot[0m/  [01;34msbin[0m/  [01;34msrv[0m/   [30;42mtmp[0m/  [01;34mvar[0m/  [01;36mvmlinuz.old[0m@
+]0;carlosdiaz@carlosdiaz-Satellite-S855: /[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m/[00m$ scd [K[K[K[Kcd
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~[00m$ cd Documentos/
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos[00m$ l
+admdf   demopython.py  init.rb             modelo.mwb        [0m[01;34mpycharm-2017.1.1[0m/        rails.rb             [01;34mwine-2.0.1[0m/
+api.rb  [01;34mfoca[0m/          model_kids.mwb      modelo.mwb.bak    Python4DataAnalysis.pdf  super.rb
+d       focam          model_kids.mwb.bak  prepros-6.config  [01;34mrailsdemo[0m/               [01;34mWebCMS-Screenshots[0m/
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos[00m$ s cd rails
+s: no se encontró la orden
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos[00m$ s cd rails[C[1P[1P[C[C[C[C[C[C[C[Cdemo/
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo[00m$ l
+[0m[01;34mblog[0m/  [01;34mdemorails[0m/  [01;34mdemota[0m/
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo[00m$ scd [K[K[K[Kcd blog/
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ l
+[0m[01;34mapp[0m/  [01;34mconfig[0m/    [01;34mdb[0m/      Gemfile.lock  [01;34mlog[0m/     Rakefile   script.sh  [01;34mtmp[0m/        [01;34mvendor[0m/
+[01;34mbin[0m/  config.ru  Gemfile  [01;34mlib[0m/          [01;34mpublic[0m/  README.md  [01;34mtest[0m/      typescript
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ s[Krails s
+=> Booting Puma
+=> Rails 5.0.2 application starting in development on http://localhost:3000
+=> Run `rails server -h` for more startup options
+A server is already running. Check /home/carlosdiaz/Documentos/railsdemo/blog/tmp/pids/server.pid.
+Exiting
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ clear
+[3;J[H[2J]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ rails [K[K[K[K[K[Kcd scrpt[K[Kuo[K[Kipt
+bash: cd: script: No existe el archivo o el directorio
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ cd[K[Kl[Kl
+[0m[01;34mapp[0m/  [01;34mconfig[0m/    [01;34mdb[0m/      Gemfile.lock  [01;34mlog[0m/     Rakefile   script.sh  [01;34mtmp[0m/        [01;34mvendor[0m/
+[01;34mbin[0m/  config.ru  Gemfile  [01;34mlib[0m/          [01;34mpublic[0m/  README.md  [01;34mtest[0m/      typescript
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ s cd[K[K[K[Kchmod a+rx my-script.sh[C[1Pscript.sh[1Pscript.sh[1Pscript.sh
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ l
+[0m[01;34mapp[0m/  [01;34mconfig[0m/    [01;34mdb[0m/      Gemfile.lock  [01;34mlog[0m/     Rakefile   [01;32mscript.sh[0m*  [01;34mtmp[0m/        [01;34mvendor[0m/
+[01;34mbin[0m/  config.ru  Gemfile  [01;34mlib[0m/          [01;34mpublic[0m/  README.md  [01;34mtest[0m/       typescript
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ s cd[K[K[K[Ks[Kchmod +x filename.sh
+chmod: no se puede acceder a 'filename.sh': No existe el archivo o el directorio
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ ./filename.shchmod +x filename.sh[7P./filename.sh[K[K[K[K[K[K[K[K[K[K[K[K[Ksh script.sh 
+demo
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ clear[K[K[K[K[Kbackportpackage [K[K[K[K[K[K[K[K[K[K[K[K[Kh script.sh 
+No se ha encontrado la orden «bach», quizás quiso decir:
+ La orden «bash» del paquete «bash» (main)
+ La orden «batch» del paquete «at» (main)
+ La orden «bch» del paquete «bikeshed» (universe)
+bach: no se encontró la orden
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ clear
+[3;J[H[2J]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ clear[K[K[K[K[Kbash script.sh 
+demo
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ clar
+No se ha encontrado la orden «clar», quizás quiso decir:
+ La orden «clear» del paquete «ncurses-bin» (main)
+ La orden «car» del paquete «ucommon-utils» (universe)
+clar: no se encontró la orden
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ clear
+[3;J[H[2J]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ clear[1Parbash script.sh [10Pclearbach script.sh [2Ps[C[C[C[C[C[C[C[C[C[C[C[Cchmod +x filename.sh[7Psh script.sh chmod +x filename.sh[7Psh script.sh chmod +x filename.shl[Kchmod a+rx script.sh
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ ls
+[0m[01;34mapp[0m  [01;34mbin[0m  [01;34mconfig[0m  config.ru  [01;34mdb[0m  Gemfile  Gemfile.lock  [01;34mlib[0m  [01;34mlog[0m  [01;34mpublic[0m  Rakefile  README.md  [01;32mscript.sh[0m  [01;34mtest[0m  [01;34mtmp[0m  typescript  [01;34mvendor[0m
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ s[Kcr[K[Ks[Kbash script.sh 
+
+Usage:	docker COMMAND
+
+A self-sufficient runtime for containers
+
+Options:
+      --config string      Location of client config files (default "/home/carlosdiaz/.docker")
+  -D, --debug              Enable debug mode
+      --help               Print usage
+  -H, --host list          Daemon socket(s) to connect to (default [])
+  -l, --log-level string   Set the logging level ("debug"|"info"|"warn"|"error"|"fatal") (default "info")
+      --tls                Use TLS; implied by --tlsverify
+      --tlscacert string   Trust certs signed only by this CA (default "/home/carlosdiaz/.docker/ca.pem")
+      --tlscert string     Path to TLS certificate file (default "/home/carlosdiaz/.docker/cert.pem")
+      --tlskey string      Path to TLS key file (default "/home/carlosdiaz/.docker/key.pem")
+      --tlsverify          Use TLS and verify the remote
+  -v, --version            Print version information and quit
+
+Management Commands:
+  container   Manage containers
+  image       Manage images
+  network     Manage networks
+  node        Manage Swarm nodes
+  plugin      Manage plugins
+  secret      Manage Docker secrets
+  service     Manage services
+  stack       Manage Docker stacks
+  swarm       Manage Swarm
+  system      Manage Docker
+  volume      Manage volumes
+
+Commands:
+  attach      Attach to a running container
+  build       Build an image from a Dockerfile
+  commit      Create a new image from a container's changes
+  cp          Copy files/folders between a container and the local filesystem
+  create      Create a new container
+  diff        Inspect changes to files or directories on a container's filesystem
+  events      Get real time events from the server
+  exec        Run a command in a running container
+  export      Export a container's filesystem as a tar archive
+  history     Show the history of an image
+  images      List images
+  import      Import the contents from a tarball to create a filesystem image
+  info        Display system-wide information
+  inspect     Return low-level information on Docker objects
+  kill        Kill one or more running containers
+  load        Load an image from a tar archive or STDIN
+  login       Log in to a Docker registry
+  logout      Log out from a Docker registry
+  logs        Fetch the logs of a container
+  pause       Pause all processes within one or more containers
+  port        List port mappings or a specific mapping for the container
+  ps          List containers
+  pull        Pull an image or a repository from a registry
+  push        Push an image or a repository to a registry
+  rename      Rename a container
+  restart     Restart one or more containers
+  rm          Remove one or more containers
+  rmi         Remove one or more images
+  run         Run a command in a new container
+  save        Save one or more images to a tar archive (streamed to STDOUT by default)
+  search      Search the Docker Hub for images
+  start       Start one or more stopped containers
+  stats       Display a live stream of container(s) resource usage statistics
+  stop        Stop one or more running containers
+  tag         Create a tag TARGET_IMAGE that refers to SOURCE_IMAGE
+  top         Display the running processes of a container
+  unpause     Unpause all processes within one or more containers
+  update      Update configuration of one or more containers
+  version     Show the Docker version information
+  wait        Block until one or more containers stop, then print their exit codes
+
+Run 'docker COMMAND --help' for more information on a command.
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ clr[K[K[Kclar
+No se ha encontrado la orden «clar», quizás quiso decir:
+ La orden «clear» del paquete «ncurses-bin» (main)
+ La orden «car» del paquete «ucommon-utils» (universe)
+clar: no se encontró la orden
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ clar
+No se ha encontrado la orden «clar», quizás quiso decir:
+ La orden «clear» del paquete «ncurses-bin» (main)
+ La orden «car» del paquete «ucommon-utils» (universe)
+clar: no se encontró la orden
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ clar[K[Kear
+[3;J[H[2J]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ clear[1Parbash script.sh 
+[3;J[H[2J=> Booting Puma
+=> Rails 5.0.2 application starting in development on http://localhost:3000
+=> Run `rails server -h` for more startup options
+A server is already running. Check /home/carlosdiaz/Documentos/railsdemo/blog/tmp/pids/server.pid.
+Exiting
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ clae
+clae: no se encontró la orden
+]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ clear
+[3;J[H[2J]0;carlosdiaz@carlosdiaz-Satellite-S855: ~/Documentos/railsdemo/blog[01;32mcarlosdiaz@carlosdiaz-Satellite-S855[00m:[01;34m~/Documentos/railsdemo/blog[00m$ ei[K[Kexit
+exit
+
+Script terminado (vie 12 may 2017 15:55:01 CDT
+)
