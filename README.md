@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+the Post rails 
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.4.1
 
-* System dependencies
+* gem Materializecss
 
 * Configuration
+if you have another vertion of rails only change the flle gem :)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
