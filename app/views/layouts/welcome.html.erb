@@ -1,26 +1,28 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Blog</title>
-    <%= csrf_meta_tags %>
+<head>
+
+	<title>Welcome</title>
 
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-      <!--Import materialize.css-->
-  </head>
 
-  <body>
+
+</head>
+<body>
+
 	  <nav>
 	    <div class="nav-wrapper blue">
-	      <a href="/" class="brand-logo">Post</a>
+	      <a href="/" class="brand-logo">Projects post</a>
 	      <ul id="nav-mobile" class="right hide-on-med-and-down">
 	        <li>
-            <%= link_to 'New', new_project_path %>
-          </li>
+	        	<a href="">Login</a>
+	      </li>
 
 	      </ul>
 	    </div>
 	  </nav>
+
 
     <%= yield %>
 
@@ -50,8 +52,9 @@
             </div>
           </div>
         </footer>
+
+
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
 
-  </body>
+</body>
 </html>
-  
